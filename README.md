@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on All of my repository
-- 🌱 I’m currently learning C# Java Script lua HTML CSS PHP and at least ORACLE APEX
-- 👯 I’m looking to collaborate he is ready to learn<!-- 🤔 I’m looking for help with ...-->
-- 💬 Ask me about nothing because you cant help me im lost:D
-- 📫 How to reach me: Discord: Der King#3176
-- 🤓 Everything is by learning by doing
+- 🌱 I’m currently learning C# Java Script lua HTML CSS PHP and at least ORACLE APEX but my focus stay to ORACLE APEX
+- 👯 I’m looking to collaborate with people they ready to learn <!-- 🤔 I’m looking for help with ...-->
+- 💬 Ask me about nothing because I cant help you im lost :D 
+- 📫 How to reach me: Discord: Kursat#3176 Discord is everything so dont shy  
+- 🤓 Everything is learning by doing
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
