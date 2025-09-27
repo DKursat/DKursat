@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate with people they ready to learn <!-- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about nothing because I cant help you im lost :D 
 - 🤓 Everything is learning by doing
-
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
@@ -53,6 +53,6 @@
   </a>
  
 </p>
-  <!--<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
   </a> -->
